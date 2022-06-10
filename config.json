@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "bakulcilok0331"
   },
   "options": {
     "autoRead": false,
@@ -15,11 +15,11 @@
     "multi": "/database/killua-multi.json"
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "Bakul Bot",
+    "author": "WhatsApp"
   },
   "owner": [
-    "62812xxx"
+    "6282144572368"
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://zenzapis.xyz"
